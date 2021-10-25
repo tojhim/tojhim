@@ -1,0 +1,4 @@
+- 👋 Hi, I’m tojhim
+- 👀 I’m interested in Data Engineering and Parallel Processing.
+- 🌱 I’m currently learning Airflow, Spark etc.
+- 📫 Contact me at tojhim@gmail.com
