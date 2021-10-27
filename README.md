@@ -1,4 +1,5 @@
 - 👋 Hi, I’m tojhim
-- 👀 I’m interested in Data Engineering and Parallel Processing.
+- 👀 I’m interested in Data Engineering/Parallel Processing/Machine Learning.
+- 💖 My final gole is developing an data to machine learning end-to-end framework.
 - 🌱 I’m currently learning Airflow, Spark etc.
 - 📫 Contact me at tojhim@gmail.com
